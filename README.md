@@ -6,8 +6,8 @@
 <b>Instructions</b>
 
 - Extract the zipped file you are provided with.
-- Install the required packages using `pip install -r requirements.txt`
-- Run the program using `python3 binary.py`
+- Install the required packages using `pip install -r requirements.txt`.
+- Run the program using `python3 binary.py`.
 
 
 <b>How it works:</b>
